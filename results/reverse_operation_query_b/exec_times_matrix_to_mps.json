@@ -1,0 +1,30 @@
+{
+    "concurrent_futures": {
+        "matrix_notation_AFIRO_sparse.txt": 1.1432020000000003,
+        "matrix_notation_SC205-2R-8_sparse.txt": 9.316345,
+        "matrix_notation_SC205-2R-50_sparse.txt": 334.14471899999995,
+        "matrix_notation_AIR_sparse.txt": 4989.448578,
+        "matrix_notation_SCAGR7-2B-64_sparse.txt": 16725.093358000002
+    },
+    "joblib": {
+        "matrix_notation_SC205-2R-50_sparse.txt": 331.139555,
+        "matrix_notation_AIR_sparse.txt": 5583.274245999999,
+        "matrix_notation_SC205-2R-8_sparse.txt": 11.486766999999176,
+        "matrix_notation_AFIRO_sparse.txt": 0.7507179999990399,
+        "matrix_notation_SCAGR7-2B-64_sparse.txt": 16706.900947000002
+    },
+    "multiprocessing": {
+        "matrix_notation_SC205-2R-50_sparse.txt": 225.73380600000002,
+        "matrix_notation_AIR_sparse.txt": 4868.286727999999,
+        "matrix_notation_SC205-2R-8_sparse.txt": 12.421116,
+        "matrix_notation_AFIRO_sparse.txt": 1.2897229999999995,
+        "matrix_notation_SCAGR7-2B-64_sparse.txt": 16671.234303999998
+    },
+    "CUDA": {
+        "matrix_notation_SC205-2R-50_sparse.txt": 295.45751399999176,
+        "matrix_notation_AIR_sparse.txt": 6639.116260000009,
+        "matrix_notation_SC205-2R-8_sparse.txt": 10.104366999996728,
+        "matrix_notation_AFIRO_sparse.txt": 0.6109109999954399,
+        "matrix_notation_SCAGR7-2B-64_sparse.txt": 23481.776080999993
+    }
+}
